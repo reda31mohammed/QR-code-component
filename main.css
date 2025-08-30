@@ -45,7 +45,7 @@ body {
   font-size: 15px;
 }
 /* mobile */
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   .QR-container {
     width: 320px;
   }
