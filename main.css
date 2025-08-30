@@ -55,7 +55,7 @@ body {
   }
 }
 /* desktop */
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
   .QR-container {
     width: 324px;
   }
